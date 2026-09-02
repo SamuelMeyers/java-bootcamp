@@ -6,7 +6,7 @@ Copy into `java-bootcamp/examples/module-03-exercises/`.
 | ---- | -------- |
 | `../../../../../../../java-bootcamp/examples/module-03-exercises/Account.java`, `../../../../../../../java-bootcamp/examples/module-03-exercises/EncapsulationDemo.java` | 2 |
 | `../exercise-02-03/SavingsAccount.java`, `../exercise-02-03/CurrentAccount.java`, `../exercise-02-03/InheritanceDemo.java` | 3 |
-| `AbstractAccount.java`, `AbstractSavings.java`, `AbstractDemo.java` | 4 |
+| `../exercise-04/AbstractAccount.java`, `../exercise-04/AbstractSavings.java`, `../exercise-04/AbstractDemo.java` | 4 |
 | `Printable.java`, `Customer.java`, `InterfaceDemo.java` | 5 |
 | `SolidDemo.java` | 6 |
 | `FrozenAccount.java` (+ update `../exercise-02-03/InheritanceDemo.java` per exercise md) | 7 |

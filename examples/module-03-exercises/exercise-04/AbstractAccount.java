@@ -1,5 +1,5 @@
-// TODO: class must be abstract (public abstract class AbstractAccount)
 public abstract class AbstractAccount {
+
     protected double balance;
 
     public AbstractAccount(double initialBalance) {
@@ -10,6 +10,6 @@ public abstract class AbstractAccount {
         return balance;
     }
 
-    // TODO: abstract method — no body; every concrete subclass must implement
+    // Every concrete subclass MUST implement this
     public abstract String getAccountType();
 }
