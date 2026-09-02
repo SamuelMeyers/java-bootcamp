@@ -1,4 +1,5 @@
 public class Customer implements Printable {
+
     private final String id;
     private final String name;
 
@@ -9,7 +10,6 @@ public class Customer implements Printable {
 
     @Override
     public void printDetails() {
-        // TODO: printf "Customer %s: %s%n" with id and name
-        throw new UnsupportedOperationException("TODO");
+        System.out.printf("Customer %s: %s%n", id, name);
     }
 }
