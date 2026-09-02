@@ -21,8 +21,7 @@ public class ConstructorsPractice {
 
         // DEFAULT CONSTRUCTOR
         Car() {
-            brand = "Unknown";
-            speed = 0;
+            this("Unknown", 0);
         }
 
 
