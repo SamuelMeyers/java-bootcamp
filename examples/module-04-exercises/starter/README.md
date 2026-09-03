@@ -7,8 +7,8 @@ Copy into `java-bootcamp/examples/module-04-exercises/`.
 | `StackHeapDemo.java` | 1 |
 | `ObjectLifecycleDemo.java` | 2 |
 | `../exercise-03/GcObserve.java` | 3 |
-| `RetentionDemo.java` | 6 |
-| `StringBuilderComparison.java` | 7 |
+| `../exercise-06/RetentionDemo.java` | 6 |
+| `../exercise-07/StringBuilderComparison.java` | 7 |
 
 Exercises 4–5 are flag/notes focused (reuse `GcObserve` with collector flags).
 
