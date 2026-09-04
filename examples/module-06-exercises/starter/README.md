@@ -6,9 +6,9 @@ Work **in order**: Exercise 1 creates the shared `Employee` / `EmployeeData` dat
 
 | File | Exercise |
 | ---- | -------- |
-| `../exercise-01-02/Employee.java`, `../exercise-01-02/EmployeeData.java`, `../exercise-01-02/SalaryCheck.java`, `../exercise-01-02/LambdaDemo.java` | 1 |
-| `../exercise-01-02/FilterSalaryDemo.java` | 2 |
-| `NamesDemo.java` | 3 |
+| `../exercise-01-02-03/Employee.java`, `../exercise-01-02-03/EmployeeData.java`, `../exercise-01-02-03/SalaryCheck.java`, `../exercise-01-02-03/LambdaDemo.java` | 1 |
+| `../exercise-01-02-03/FilterSalaryDemo.java` | 2 |
+| `../exercise-01-02-03/NamesDemo.java` | 3 |
 | `SalaryExtremesDemo.java` | 4 |
 | `RaiseDemo.java` | 5 |
 | `DepartmentCountDemo.java` | 6 |
