@@ -6,12 +6,12 @@ Work **in order**: Exercise 1 creates the shared `Employee` / `EmployeeData` dat
 
 | File | Exercise |
 | ---- | -------- |
-| `../exercise-01-02-03/Employee.java`, `../exercise-01-02-03/EmployeeData.java`, `../exercise-01-02-03/SalaryCheck.java`, `../exercise-01-02-03/LambdaDemo.java` | 1 |
-| `../exercise-01-02-03/FilterSalaryDemo.java` | 2 |
-| `../exercise-01-02-03/NamesDemo.java` | 3 |
+| `../exercise-01-02-03-05-06/Employee.java`, `../exercise-01-02-03-05-06/EmployeeData.java`, `../exercise-01-02-03-05-06/SalaryCheck.java`, `../exercise-01-02-03-05-06/LambdaDemo.java` | 1 |
+| `../exercise-01-02-03-05-06/FilterSalaryDemo.java` | 2 |
+| `../exercise-01-02-03-05-06/NamesDemo.java` | 3 |
 | `SalaryExtremesDemo.java` | 4 |
-| `RaiseDemo.java` | 5 |
-| `DepartmentCountDemo.java` | 6 |
+| `../exercise-01-02-03-05-06/RaiseDemo.java` | 5 |
+| `../exercise-01-02-03-05-06/DepartmentCountDemo.java` | 6 |
 | `HrNamesDemo.java` | 7 |
 | `ParallelStreamDemo.java` | 8 (bonus / Checkpoint E) |
 
